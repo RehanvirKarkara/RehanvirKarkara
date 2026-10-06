@@ -36,9 +36,8 @@ scalable software — from AI-powered applications to full-stack systems.
 
 ### 📌 Featured Projects
 
-🔹 **Parently / CareBridge AI** — AI-powered family health monitoring platform  
-🔹 **Findearn** — AI-powered personalized learning path generator  
-🔹 **Crop Disease Management System** — ML-based crop disease detection  
+🔹 **Parently** — AI-powered family health monitoring platform  
+🔹 **Crop Disease Management System** — DL-based crop disease detection  
 🔹 **Movie Recommendation System** — NLP + ML recommendation engine
 
 ---
