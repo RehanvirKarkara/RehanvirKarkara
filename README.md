@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey, I'm Rehanvir Karkara 👋
 
-<!--
-**RehanvirKarkara/RehanvirKarkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Code. Build. Break. Learn. Evolve. ⚔️`
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate who enjoys turning ideas into real,
+scalable software — from AI-powered applications to full-stack systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full-Stack Developer  
+🤖 AI/ML & LLM Enthusiast  
+⚙️ Backend & System Design  
+🧠 DSA & Problem Solving  
+🚀 Always building something new
+
+---
+
+### ⚡ Tech Arsenal
+
+**Frontend:** React.js • Next.js • TypeScript • Tailwind CSS  
+**Backend:** Python • FastAPI • SQLAlchemy  
+**Database:** PostgreSQL • Redis • ChromaDB • Pinecone  
+**AI/ML:** LLMs • RAG • LangChain • TensorFlow  
+**DevOps:** Docker • Git • Vercel • Railway
+
+---
+
+### 🛠️ Currently Building
+
+> Turning ambitious ideas into products that actually work.
+
+🤖 AI-powered applications  
+🌐 Scalable full-stack systems  
+🧠 Intelligent recommendation & RAG systems  
+⚔️ Leveling up DSA, system design & software engineering
+
+---
+
+### 📌 Featured Projects
+
+🔹 **Parently / CareBridge AI** — AI-powered family health monitoring platform  
+🔹 **Findearn** — AI-powered personalized learning path generator  
+🔹 **Crop Disease Management System** — ML-based crop disease detection  
+🔹 **Movie Recommendation System** — NLP + ML recommendation engine
+
+---
+
+### 📊 GitHub Philosophy
+
+```text
+Build → Break → Debug → Learn → Improve → Repeat
